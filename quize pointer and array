@@ -1,0 +1,144 @@
+Quiz questions
+Great! You've completed the quiz successfully! Keep going! (Hide quiz)
+Question #0
+In this following code, what is the value of a[1][1]?
+
+int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+
+2
+
+
+4
+
+
+1
+
+
+3
+answer 4
+
+Question #1
+What is stored inside a pointer to a pointer to an int?
+
+
+An int
+
+
+An address where an int is stored
+
+
+An address where an address is stored
+answer :-An address where an address is stored
+
+Question #2
+In this following code, what is the value of a[0][0]?
+
+int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+
+2
+
+
+4
+
+
+1
+
+
+3
+answer : 1
+
+Question #3
+What is the size of *p in this code?
+
+int **p;
+
+8 bytes
+
+
+4 bytes
+
+
+16 bytes
+
+answer : 8 bytes
+
+Question #4
+What is the size of p in this code?
+
+int *p;
+
+8 bytes
+
+
+4 bytes
+
+
+16 bytes
+answer :8  bytes 
+
+
+Question #5
+What is the size of *p in this code?
+
+int *p;
+
+8 bytes
+
+
+4 bytes
+
+
+16 bytes
+
+answer 4 bytes
+
+Question #6
+In this following code, what is the value of a[3][1]?
+
+int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+
+9
+
+
+8
+
+
+7
+
+
+{7, 8}
+\
+answer 8
+
+Question #7
+In this following code, what is the value of a[3][0]?
+
+int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+
+8
+
+
+5
+
+
+7
+
+
+{7, 8}
+
+answer 7
+
+Question #8
+What is the size of p in this code?
+
+int **p;
+
+8 bytes
+
+
+4 bytes
+
+
+16 bytes
+
+answer 8 bytes
